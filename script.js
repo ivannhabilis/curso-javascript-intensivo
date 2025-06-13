@@ -12,7 +12,7 @@ let paragrafo = document.querySelector('.paragrafo');
 
 // MODIFICANDO a cor do texto dele
 paragrafo.style.color = 'blue';
-paragrafo.style.fontSize = '20px'; // Aumentando a fonte
+// paragrafo.style.fontSize = '20px'; // Aumentando a fonte
 paragrafo.style.fontWeight = 'bold'; // Deixando o texto em negrito
 
 let botaoMagico = document.getElementById('botao-magico');
